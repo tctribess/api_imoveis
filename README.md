@@ -14,7 +14,7 @@ apresentada no enunciado (deverá ser realizado um join entre todas as tabelas c
 e. Utilizar linguagem de programação de backend que consulte o banco de dados 
 executando a instrução realizada no item d.</br>
 
-MODELO DER
+MODELO DER</br>
 ![image](https://github.com/tctribess/api_imoveis/assets/79874516/105ca5fb-448a-46d9-af22-c2bd0a9d57c4)
 
 
